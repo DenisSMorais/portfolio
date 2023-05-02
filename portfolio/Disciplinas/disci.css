@@ -1,0 +1,88 @@
+body{
+    height: 950px;
+    background: url('9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+  }
+
+
+  h1{
+    color: #0cdbe2;
+  }
+  span{
+    color: #0cdbe2;
+  }
+  h2{
+    color: white;
+  }
+
+  button {
+    background-color: #0cdbe2;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .first{
+    color: white;
+  }
+  #texto-escondido {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 40px 650px;
+    color: white;
+    font-size: 15px;
+    font-style: arial;
+  }
+
+.secunde{
+    color: white;
+}
+#texto-escondido-2 {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 40px 650px;
+    color: white;
+    font-size: 15px;
+    font-style: arial;
+  }
+
+  .terceto{
+    color: white;
+  }
+  #texto-escondido-3 {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 40px 650px;
+    color: white;
+    font-size: 15px;
+    font-style: arial;
+  }
+.quarteto{
+    color: white;
+}
+#texto-escondido-4 {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 40px 650px;
+    color: white;
+    font-size: 15px;
+    font-style: arial;
+  }
+button:hover{
+    background-color: white;
+    color: black;
+}

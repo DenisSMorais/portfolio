@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 8px;
+    margin: auto;
+}
+
+*{
+    background-image: url("neon.jpg");
+    background-repeat: no-repeat;
+    color: white;
+}
+h1{
+    margin: 50px 650px;
+    color: #0cdbe2;
+}
+th{
+    color:#0cdbe2;
+}

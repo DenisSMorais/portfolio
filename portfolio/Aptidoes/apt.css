@@ -1,0 +1,48 @@
+body{
+  height: 800px;
+  background: url('14.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h1{
+    margin: 40px 650px;
+    color: #0cdbe2;
+}
+h2{
+    margin: 5px 610px;
+    color: white;
+}
+span{
+    color: #0cdbe2;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .haskell {
+    width: 150px;
+    height: 150px;
+    margin: 250px 50px;
+    display: inline-block;
+    background-color: transparent;
+  }
+  
+  .python {
+    width: 150px;
+    height: 150px;
+    margin: 250px 50px;
+    display: inline-block;
+    background-color: transparent;
+  }
+  
+  .C {
+    width: 150px;
+    height: 150px;
+    margin: 250px 50px;
+    display: inline-block;
+    background-color: transparent;
+  }
